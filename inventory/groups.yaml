@@ -1,0 +1,13 @@
+---
+
+arista_group:
+  username: baris
+  password: password
+  platform: 'eos'
+  connection_options:
+    netmiko:
+      extras:  {}
+
+spines: {}
+
+leafs: {}
