@@ -1,4 +1,5 @@
 # VXLAN and ISIS Deployment
+The purpose of this project is to automate the data center network infrastructure of a corporate company using IS-IS and VXLAN communication protocols.
 
 ## VXLAN
 Virtual Extensible LAN (VXLAN) is a networking technology that enables the encapsulation of MAC-based Layer 2 Ethernet frames within Layer 3 UDP packets to aggregate and tunnel multiple Layer 2 networks across a Layer 3 infrastructure. This helps to provide greater scalability and flexibility in large-scale virtualized environments. VXLAN is capable of supporting up to 16 million logical networks and facilitates Layer 2 adjacency across IP networks. To enable broadcast, multicast, and unknown unicast traffic, a multicast transmission architecture is utilized.
